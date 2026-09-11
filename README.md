@@ -4,7 +4,7 @@ A modern full-stack web application designed to help Ganesh Chavithi festival co
 
 ## 🚀 Live Demo
 
-**Coming Soon**
+(https://ganesh-chavithi-fund-1td8.bolt.host)
 
 ## 📸 Screenshots
 
